@@ -1,0 +1,9 @@
+{
+  "elements": [
+    {
+      "name": "skipLogin",
+      "identifier": "className_text",
+      "value": "android.widget.ScrollView-Skip sign in"
+    }
+  ]
+}

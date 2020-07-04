@@ -1,0 +1,46 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Screenshot
+screenshot/
+
+# Gradle
+.gradle/
+
+# Mac
+.DS_Store
+.swp
+
+# Maven
+log/
+target/
+test-output/
+.tern-project
+build/
+
+# node
+node/
+/.mvn/
+/.settings/
+/.classpath
+/.project
+/mvnw
+/mvnw.cmd
+/.checkstyle
+
+
+# Logs
+logs/
+
+# Do not ignore
+!.gitignore
+!.idea/runConfigurations/
+work/

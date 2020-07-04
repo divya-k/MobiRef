@@ -1,0 +1,14 @@
+{
+  "elements": [
+  {
+    "name": "Search_Result",
+    "identifier": "className_text",
+    "value": "android.webkit.WebView"
+  },
+    {
+      "name": "price",
+      "identifier": "className_id",
+      "value": "android.webkit.WebView-priceblock_ourprice"
+    }
+  ]
+}
